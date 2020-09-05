@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BeastTokens">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Plugins folder/BeastTokens.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

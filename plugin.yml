@@ -1,0 +1,5 @@
+version: 1.0
+name: RiftBoosters
+main: me.hassan.riftboosters.RiftBoosters
+commands:
+  boosters:

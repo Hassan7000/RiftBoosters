@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ShopGUIPlus-1.31.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ShopGUIPlus-1.31.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
